@@ -34,7 +34,7 @@ Game ends when agent falls into a hole or reaches goal
 #### `HellLake-v0`
 Staying still incurs a penalty of 0.01 (reward = -0.01)
 
-Game *does not* end when agent falls into a hole. Agent simple continues to incur "staying still" penalty
+Game **does not** end when agent falls into a hole. Agent simply continues to incur "staying still" penalty
 
 
 ## To Do
